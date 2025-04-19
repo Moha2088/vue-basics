@@ -1,1 +1,3 @@
-# Vue Practice
+# vue-basics
+
+Vue basics practice
